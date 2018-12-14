@@ -1,5 +1,9 @@
+/*
+Author: Bao Bao
+*/
+
+
 #include <iostream>
-#include <conio.h>
 using namespace std;
 /*
 int isInteger(char* inStr);
